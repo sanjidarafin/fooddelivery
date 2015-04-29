@@ -1,0 +1,61 @@
+<style>
+
+#container {
+
+width:1330px;
+height:810;
+border: 2px solid #435432;
+maargin:1px;
+
+}
+
+#header{
+
+width :1320px;
+height :150px;
+color :teal;
+border : 1px solid red;
+maargin:4px;
+}
+
+#body{
+
+width :1320px;
+height :500px;
+color :teal;
+border : 1px solid black;
+margin : 4px;
+}
+
+#footer {
+
+width :1320px;
+height :150px;
+color :teal;
+border : 1px solid blue;
+margin : 4px;
+
+}
+
+#sidebar1{
+
+width :650px;
+height :490px;
+color :teal;
+border : 1px solid teal;
+float:left;
+margin:5px;
+
+}
+
+#sidebar2{
+
+width :646px;
+height :490px;
+color :teal;
+border : 1px solid green;
+float:left;
+margin:5px;
+
+}
+</style>
