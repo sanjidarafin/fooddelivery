@@ -11,7 +11,7 @@
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) { ?>
-<select name="category">
+Category:<select name="category">
   <?php
     while($row = $result->fetch_assoc()) { ?>
   <option value='<?php echo $row["id"]?>'><?php echo $row["name"]?></option>
